@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/n.minh.le31/**
 
-- ⚡ Fun fact **Love cute dogs and learning about UI UX**
+- ⚡ Fact **Love cute pets and learning about UI UX**
 
 ## 🚀 Languages and tools
 
