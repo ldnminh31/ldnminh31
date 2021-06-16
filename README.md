@@ -10,16 +10,14 @@
 
 - ⚡ Fun fact **Love cute dogs and learning about UI UX**
 
-## 🚀 Languages
+## 🚀 Languages and tools
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="48" height="48"/> </a> 
-    <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png" width="40" height="40"/> </a> 
-<br>
+|               |               |
+| ------------- | ------------- |
+|       C/C++   |      HTML     |
+|       Python  |      CSS      |
+|       Java    |      Office   |
+|       Swift   |               |
 
 ## 💪 My skills
   <p> I'm will update later 😄 </p>
