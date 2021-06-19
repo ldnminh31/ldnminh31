@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/n.minh.le31/**
 
-- ⚡ Fact **Love cute pets and learning about UI UX**
+- ⚡ Fact **Favorite drink: Jasmine 😄**
 
 ## 🚀 Languages and tools
 
