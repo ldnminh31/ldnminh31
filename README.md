@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/n.minh.le31/**
 
-- ⚡ Fact **Favorite drink: Jasmine 😄**
+- ⚡ Fact: **Favorite drink is Jasmine tea 😄**
 
 ## 🚀 Languages and tools
 
