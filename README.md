@@ -4,7 +4,7 @@
 
 ## 👩🏼‍💻 About Me
 
-- 🌱 I’m currently learning **Mobile Application and Python Programming language**
+- 🌱 I’m currently learning **Mobile Application development and Python Programming language**
 
 - 📫 How to reach me **https://www.facebook.com/n.minh.le31/**
 
